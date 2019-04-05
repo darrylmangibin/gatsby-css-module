@@ -1,0 +1,20 @@
+.image {
+  border: 5px solid green;
+
+}
+
+.image__container {
+  padding: 20px;
+  background-color: gainsboro;
+}
+
+/*
+        Don't modify the caption's css selector, 
+        pretend it's a third-party component class name that we can't change.
+*/
+
+.image__caption {
+  width: 260px;
+  padding-top: 10px;
+  font-size: 14px;
+}

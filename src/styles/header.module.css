@@ -1,0 +1,15 @@
+.header__title {
+  color: #ffd52d;
+}
+
+.header__background {
+  background-color: #253ecc;
+}
+
+.header__caption {
+  color: blue;
+}
+
+.body__image {
+  outline: 5px solid blue;
+}
